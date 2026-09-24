@@ -11,7 +11,7 @@ Programa en Java por consola que permite a una microempresa registrar productos,
 
 ## Video de exposición
 
-[Ver video en YouTube](https://youtu.be/ENLACE-AQUI)
+[Ver video en YouTube](https://youtu.be/6myM3Zq9mQk)
 
 ## Instrucciones de ejecución
 
